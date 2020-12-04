@@ -1,6 +1,6 @@
 import requests as rq
 import datetime, time
-import asyncio, base64
+import base64
 import lcu_connector_python as lcu
 import os, json
 

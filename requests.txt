@@ -1,0 +1,3 @@
+requests
+lcu_connector_python
+base64
